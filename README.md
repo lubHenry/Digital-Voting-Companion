@@ -1,6 +1,6 @@
 # Digital-Voting-Companion
 
-We are to develop an online voting and elections management system.
+We are to develop an online voting and elections management system(both web and android based) from scratch.
 
 <input type="radio"/><label>Register User with predefined ID number</label><br/>
 <input type="radio"/><label>Voter selects voting task</label><br/>
