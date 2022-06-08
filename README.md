@@ -2,6 +2,7 @@
 
 We are to develop an online voting and elections management system(both web and android based) from scratch.
 
+<b>Features<b/>
 <input type="radio"/><label>Register User with predefined ID number</label><br/>
 <input type="radio"/><label>Voter selects voting task</label><br/>
 <input type="radio"/><label>Voter casts his vote</label><br/>
